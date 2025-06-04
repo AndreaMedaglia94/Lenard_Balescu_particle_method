@@ -9,7 +9,7 @@ set(0,'defaultaxesfontsize',20,'defaultaxeslinewidth',1.5,...
 %% parameters
 d = 2; % dimension
 
-Nv = 40; % number of velocity pts per dim 
+Nv = 30; % number of velocity pts per dim 
 v_max = 4; % range of velocity [-v_max, v_max]^d
 
 T = 10; % terminal time
